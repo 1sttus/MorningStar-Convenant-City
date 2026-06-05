@@ -1,0 +1,6 @@
+{
+  "name": "Morningstar City Masterplan",
+  "description": "Interactive architectural rendering and masterplan explorer of Morningstar Covenant International Church City in Nigeria, featuring blueprint CAD layouts, a guided media tour, and building resource simulators.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
